@@ -1,0 +1,37 @@
+---
+title: "End-of-course self reflection (SR #3)"
+author: "Your name"
+date: 2026-03-13
+---
+
+::: {.callout-note}
+*For the full assignment description and grading specifications, please see the course website: <https://eds-240-data-viz.github.io/course-materials/assignments/SR3-endcourse.html>*
+:::
+
+## Reflect on your progress
+
+  - [ ] **1. Since your mid-quarter self-reflection, have you improved any of your existing skills? Have you learned new ones?**
+    
+    Your answer here
+    
+  - [ ] **2. Have you accomplished your learning goals for this quarter (that you set in SR #1, and potentially expanded upon or modified in SR #2)? If you did, how did you do it?**
+    
+    Your answer here
+    
+  - [ ] **3. What are you proudest of accomplishing in this course?** 
+        
+    Your answer here
+    
+  - [ ] **4. What are some transferable skills that you developed in this course? How might you apply them to other courses or deliverables within your graduate program (e.g. MEDS, MESM, etc.) or to jobs in the future?** 
+        
+    Your answer here
+
+## (Optional) Share any feedback you might have about the class
+    
+  - [ ] **1. What is one thing that you really liked about this course, and why? What is one thing you think could be improved about this course, and how?** 
+        
+    Your answer here
+    
+  - [ ] **2. Is there anything else you'd like the instructors to know about your experience in the course?** 
+        
+    Your answer here
