@@ -12,19 +12,33 @@ date: 2026-03-13
 
   - [ ] **1. Since your mid-quarter self-reflection, have you improved any of your existing skills? Have you learned new ones?**
     
-    Your answer here
+    Since my mid‑quarter reflection, I’ve strengthened several skills I was already developing, especially around data wrangling, ggplot design, and editorial decision‑making. Working through the infographic pushed me to refine my workflow. It forced me to clean and reshape data more efficiently, structure scripts so they’re reproducible, and iterate on visualizations with a clearer sense of narrative purpose.
+    
+    I also picked up new skills—most notably the waffle package, which required me to think differently about how to encode proportions and how to balance aesthetics with interpretability. Beyond that, I deepened my understanding of typography, color hierarchy, and accessibility, especially as I moved between R, Affinity Designer, and Canva. Those design decisions weren’t just cosmetic; they shaped how effectively my message landed.
     
   - [ ] **2. Have you accomplished your learning goals for this quarter (that you set in SR #1, and potentially expanded upon or modified in SR #2)? If you did, how did you do it?**
     
-    Your answer here
+    The goals I set at the beginning of the quarter were to (1) become more confident in building clean, purposeful visualizations in R, (2) learn new plot types and extensions, and (3) improve my ability to communicate data clearly to both technical and non‑technical audiences. I feel like I accomplished all three.
+
+I met these goals by iterating constantly, seeking feedback, and being willing to drop visualizations that didn’t serve the story—even if I had already invested time in them. I also pushed myself to document my process more thoroughly, which helped me understand my own decisions and made the final blog post stronger. The combination of technical practice and editorial reflection is what ultimately helped me reach the goals I set.
     
   - [ ] **3. What are you proudest of accomplishing in this course?** 
         
-    Your answer here
+    I’m proudest of building an infographic that feels both scientifically grounded and visually accessible. It reflects not just technical skill, but judgment—knowing when a visualization adds meaning and when it distracts. I’m also proud of how much I grew in my ability to translate complex environmental data into something the public could understand without oversimplifying it.
+
+And honestly, I’m proud of the workflow I built. Moving between R, Affinity Designer, and Canva in a way that still preserved reproducibility and integrity felt like a real step toward professional‑level data storytelling.
     
   - [ ] **4. What are some transferable skills that you developed in this course? How might you apply them to other courses or deliverables within your graduate program (e.g. MEDS, MESM, etc.) or to jobs in the future?** 
         
-    Your answer here
+    Reproducible workflows — structuring code, documenting decisions, and keeping everything traceable. This is essential for any data‑driven project in MEDS or MESM.
+
+Editorial thinking — deciding what story the data can actually support, and designing visuals that reinforce that story. This is relevant to policy briefs, environmental reports, and any public‑facing communication.
+
+Spatial reasoning and mapping — especially important for environmental science work, where spatial patterns often drive the narrative.
+
+Accessibility and DEIJ‑aligned design — making choices that ensure visuals are readable, inclusive, and ethically grounded.
+
+Cross‑tool fluency — moving between R and design software while maintaining data integrity, which mirrors workflows used in data journalism, consulting, and environmental communication roles.
 
 ## (Optional) Share any feedback you might have about the class
     
